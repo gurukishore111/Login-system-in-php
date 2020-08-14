@@ -23,7 +23,7 @@ after login :
 after logout,site reloaded into new page
 
 
-i used mysql for this system
+I used mysql for this system
 
 
 ![4](https://user-images.githubusercontent.com/52570524/82138747-69e27880-9840-11ea-8bea-7c3d267fad7e.jpg)
